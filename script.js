@@ -84,7 +84,7 @@ function inrel2() {
 
 }
 function trollalt() {
-    document.getElementById("alert2").innerHTML="Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy!";
-    alert("Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy!");
+    document.getElementById("alert2").innerHTML="Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy! mà chắc cậu cũng biết rồi mà xem thử đi:3";
+    alert("Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy! mà chắc cậu cũng biết rồi mà xem thử đi:3");
     return false;
 }
