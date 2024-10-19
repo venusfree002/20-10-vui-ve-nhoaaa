@@ -65,12 +65,12 @@ function inrel() {
      b.style.display="none";
      z.style.display="none";
      c.innerHTML = "";
-     c.innerHTML = "Cậu rất giống với con dâu của bố mẹ tớ lắm =))";
+     c.innerHTML = "Thực ra hôm nay là 1 ngày cũng đặc biệt với cậu đó! 😳";
      y.style.display="none";
      x.style.display="inline";
      document.getElementById("audio3").play();
      document.getElementById("alert2").innerHTML = "";
-     document.getElementById("des").innerHTML = "Nếu cậu không phiền thì làm người yêu tớ nhé 😳";
+     document.getElementById("des").innerHTML = "Nhân ngày 20/10, anh chúc vy luôn luôn xinh đẹp, rạng ngời, mãi là một công chúa . Hi vọng rằng t sẽ tiếp tục được chúc 20/10 cho vy vào năm tới. Tặng vy món quà nhỏ này nhaa! 😳";
      return false;
 
 }
